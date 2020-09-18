@@ -1,0 +1,26 @@
+{
+  "name": "electron-webrtc-rat",
+  "version": "1.0.0",
+  "description": "Remote Access Tunnels using Electron and WebRTC",
+  "main": "host.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RangerMauve/electron-WebRTC-RAT.git"
+  },
+  "keywords": [
+    "rat",
+    "electron",
+    "webrtc",
+    "control",
+    "rdp"
+  ],
+  "author": "rangermauve <ranger@mauve.moe> (https://mauve.moe/)",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RangerMauve/electron-WebRTC-RAT/issues"
+  },
+  "homepage": "https://github.com/RangerMauve/electron-WebRTC-RAT#readme"
+}
